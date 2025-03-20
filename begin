@@ -1,4 +1,5 @@
 public static void main(String[] args)
+public static void main(String[] args)
 ResultSet rs = ps.executeQuery();
 Properties props = new Properties();
 String password = props.getProperty("db.password");

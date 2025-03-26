@@ -1,3 +1,5 @@
+if (out != null) {
+
 } finally {
 if (out != null) {
 public static void main(String[] args)

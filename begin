@@ -1,3 +1,4 @@
+con=DriverManager.getConnection(url, userName, password);
 if (out != null) {
 if (out != null) {
 
